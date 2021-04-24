@@ -8,17 +8,20 @@ Creating scenarios that emulate human behavior to automatically test the product
 
 <img src="avatars/Python.svg" alt="Python" width="46" height="46"> <img src="avatars/Pycharm.svg" alt="Pycharm" width="50" height="50"> <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="50" height="50"> <img src="avatars/Java.svg" alt="Java" width="50" height="50"> <img src="avatars/Selenium.svg" alt="Selenium" width="50" height="50"> <img src="avatars/Selenide.svg" alt="Selenide" width="50" height="50"> <img src="avatars/Gradle.svg" alt="Gradle" width="50" height="50"> <img src="avatars/JUnit5.svg" alt="JUnit5" width="50" height="50"> <img src="avatars/Rest-Assured.svg" alt="Rest-Assured" width="50" height="50"> <img src="avatars/Appium.svg" alt="Appium" width="50" height="50"> 
 
-## Building infrastructure with
+## Building infrastructure
 
-[comment]: <> (I solve infrastructure problems for embedding the launch of autotests in CI / CD, containerization of browsers and mobile devices)
+Solving infrastructure problems for embedding the launch of autotests in CI / CD, containerization of browsers and mobile devices
+
 <img src="avatars/Github.svg" alt="Github" width="50" height="50"> <img src="avatars/Jenkins.svg" alt="Jenkins" width="50" height="50"> <img src="avatars/Selenoid.svg" alt="Selenoid" width="50" height="50"> <img src="avatars/Browserstack.svg" alt="Browserstack" width="50" height="50"> 
 
 ## Visualization of test results
 
-[comment]: <> (generating reports that are understandable to the customer and setting up notifications to messengers about the status of tests)
+Generating reports that are understandable to the customer and setting up notifications to messengers about the status of tests
+
 <img src="avatars/Allure_Report.svg" alt="Allure_report" width="50" height="50"> <img src="avatars/Slack.svg" alt="Slack" width="50" height="50"> <img src="avatars/Telegram.svg" alt="Telegram" width="50" height="50"> 
 
-## Test management with
+## Test management
 
-[comment]: <> (managing a large volume of tests in test management systems that support both manual and autotests, in conjunction with CI/CD tools and task trackers)
+Managing a large volume of tests in test management systems that support both manual and autotests, in conjunction with CI/CD tools and task trackers
+
 <img src="avatars/Allure_EE.svg" alt="Allire_EE" width="50" height="50"> <img src="avatars/Jira.svg" alt="Jira" width="50" height="50"> 
