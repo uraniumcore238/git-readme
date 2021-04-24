@@ -4,6 +4,5 @@
 
 ## My stack
 
-![IntelliJ IDEA](avatars/Intelij_IDEA.svg)
-
 <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="200" height="200">
+<img src="avatars/Java.svg" alt="Java" width="200" height="200">
