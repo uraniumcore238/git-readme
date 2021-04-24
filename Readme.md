@@ -4,7 +4,7 @@
 
 ## Create autotests with
 
-<img src="avatars/Python.svg" alt="Python" width="48" height="48"> <img src="avatars/Pycharm.svg" alt="Pycharm" width="50" height="50"> <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="50" height="50"> <img src="avatars/Java.svg" alt="Java" width="50" height="50"> <img src="avatars/Selenium.svg" alt="Selenium" width="50" height="50"> <img src="avatars/Selenide.svg" alt="Selenide" width="50" height="50"> <img src="avatars/Gradle.svg" alt="Gradle" width="50" height="50"> <img src="avatars/JUnit5.svg" alt="JUnit5" width="50" height="50"> <img src="avatars/Rest-Assured.svg" alt="Rest-Assured" width="50" height="50"> <img src="avatars/Appium.svg" alt="Appium" width="50" height="50"> 
+<img src="avatars/Python.svg" alt="Python" width="46" height="46"> <img src="avatars/Pycharm.svg" alt="Pycharm" width="50" height="50"> <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="50" height="50"> <img src="avatars/Java.svg" alt="Java" width="50" height="50"> <img src="avatars/Selenium.svg" alt="Selenium" width="50" height="50"> <img src="avatars/Selenide.svg" alt="Selenide" width="50" height="50"> <img src="avatars/Gradle.svg" alt="Gradle" width="50" height="50"> <img src="avatars/JUnit5.svg" alt="JUnit5" width="50" height="50"> <img src="avatars/Rest-Assured.svg" alt="Rest-Assured" width="50" height="50"> <img src="avatars/Appium.svg" alt="Appium" width="50" height="50"> 
 
 ## Build infrastructure with
 
