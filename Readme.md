@@ -10,7 +10,7 @@
 
 ## Building infrastructure
 
-> Solving infrastructure problems for embedding the launch of autotests in CI / CD, containerization of browsers and mobile devices.
+> Solving infrastructure problems for embedding the launch of autotests in CI/CD, containerization of browsers and mobile devices.
 
 <img src="avatars/Github.svg" alt="Github" width="30">  <img src="avatars/Jenkins.svg" alt="Jenkins" width="30">  <img src="avatars/Selenoid.svg" alt="Selenoid" width="30">  <img src="avatars/Browserstack.svg" alt="Browserstack" width="30"> 
 
