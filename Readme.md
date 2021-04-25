@@ -180,12 +180,6 @@
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/SQL.svg" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#uraniumcore238" >
         <img src="./avatars/Postgresql.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
@@ -195,6 +189,13 @@
 <!--         <img src="./avatars/" width="48" height="48" alt="" /> -->
       </a>
       <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+<!--         <img src="./avatars/" width="48" height="48" alt="" /> -->
+      </a>
+      <br>
+    </td>
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
