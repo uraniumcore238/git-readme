@@ -37,114 +37,114 @@ Managing a large volume of tests in test management systems that support both ma
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Pycharm.svg" width="48" height="48" alt="Pycharm" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>Pycharm
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./avatars/Python.svg"" width="48" height="48" alt="Python" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Intelij_IDEA.svg" width="48" height="48" alt="Intelij IDEA" />
       </a>
-      <br>Go
+      <br>Intelij_IDEA
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Jsonnet
+      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Selenium.svg" width="48" height="48" alt="Selenium" />
       </a>
-      <br>TypeScript
+      <br>Selenium
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Selenide.svg" width="48" height="48" alt="Selenide" />
       </a>
-      <br>JavaScript
+      <br>Selenide
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Gradle.svg" width="48" height="48" alt="Gradle" />
       </a>
-      <br>React
+      <br>Gradle
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/JUnit5.svg" width="48" height="48" alt="JUnit5" />
       </a>
-      <br>Bootstrap
+      <br>JUnit5
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Rest-Assured.svg" width="48" height="48" alt="Rest-Assured" />
       </a>
-      <br>Sass
+      <br>Rest-Assured
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Appium.svg" width="48" height="48" alt="Appium" />
       </a>
-      <br>Docker
+      <br>Appium
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#uraniumcore238" >
+        <img src="avatars/Github.svg" width="48" height="48" alt="Github" />
       </a>
-      <br>Kubernetes
+      <br>Github
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Jenkins.svg" width="48" height="48" alt="Jenkins" />
       </a>
-      <br>Debian
+      <br>Jenkins
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Selenoid.svg" width="48" height="48" alt="Selenoid" />
       </a>
-      <br>RHEL
+      <br>Selenoid
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Browserstack.svg" width="48" height="48" alt="Browserstack" />
       </a>
-      <br>Powershell
+      <br>Browserstack
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <a href="#uraniumcore238">
+        <img src="./avatars/Allure_Report.svg" width="48" height="48" alt="Allure ReportL" />
       </a>
-      <br>MySQL
+      <br>Allure Report
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Slack.svg" width="48" height="48" alt="Slack" />
       </a>
-      <br>Grafana
+      <br>Slack
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Telegram.svg" width="48" height="48" alt="Telegram" />
       </a>
-      <br>Prometheus
+      <br>Telegram
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Allure_EE.svg" width="48" height="48" alt="Allure TestOps" />
       </a>
-      <br>Thanos
+      <br>Allure TestOps
     </td>
   </tr>
 </table>
