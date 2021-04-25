@@ -152,6 +152,18 @@
       </a>
       <br>Maven
     </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Maven.svg" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Maven.svg" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+    </td>
   </tr>
 </table>
 
