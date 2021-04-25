@@ -168,7 +168,7 @@
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/Android_studio.svg" width="48" height="48" alt="Android Studio" />
+        <img src="./avatars/Android_Studio.svg" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
     </td>
