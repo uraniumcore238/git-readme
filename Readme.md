@@ -1,6 +1,6 @@
 # Hi there! <img src="avatars/wave.gif" width="30px">
 
-[My LinkedIn Profile](http://linkedin.com/in/sergei-tolmachev-21732a160)
+[My LinkedIn Profile](http://linkedin.com/in/sergei-tolmachev-21732a160) <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="30"> 
 
 ## Autotests development
 
@@ -25,3 +25,5 @@ Generating reports that are understandable to the customer and setting up notifi
 Managing a large volume of tests in test management systems that support both manual and autotests, in conjunction with CI/CD tools and task trackers
 
 <img src="avatars/Allure_EE.svg" alt="Allire_EE" width="30">  <img src="avatars/Jira.svg" alt="Jira" width="30"> 
+
+
