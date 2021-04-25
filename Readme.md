@@ -25,3 +25,7 @@ Generating reports that are understandable to the customer and setting up notifi
 Managing a large volume of tests in test management systems that support both manual and autotests, in conjunction with CI/CD tools and task trackers
 
 <img src="avatars/Allure_EE.svg" alt="Allire_EE" width="30">  <img src="avatars/Jira.svg" alt="Jira" width="30"> 
+
+
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
