@@ -12,16 +12,16 @@ Creating scenarios that emulate human behavior to automatically test the product
 
 Solving infrastructure problems for embedding the launch of autotests in CI / CD, containerization of browsers and mobile devices
 
-<img src="avatars/Github.svg" alt="Github" width="50" height="50"> <img src="avatars/Jenkins.svg" alt="Jenkins" width="50" height="50"> <img src="avatars/Selenoid.svg" alt="Selenoid" width="50" height="50"> <img src="avatars/Browserstack.svg" alt="Browserstack" width="50" height="50"> 
+<img src="avatars/Github.svg" alt="Github" width="30"> <img src="avatars/Jenkins.svg" alt="Jenkins" width="30"> <img src="avatars/Selenoid.svg" alt="Selenoid" width="30"> <img src="avatars/Browserstack.svg" alt="Browserstack" width="30"> 
 
 ## Visualization of test results
 
 Generating reports that are understandable to the customer and setting up notifications to messengers about the status of tests
 
-<img src="avatars/Allure_Report.svg" alt="Allure_report" width="50" height="50"> <img src="avatars/Slack.svg" alt="Slack" width="50" height="50"> <img src="avatars/Telegram.svg" alt="Telegram" width="50" height="50"> 
+<img src="avatars/Allure_Report.svg" alt="Allure_report" width="30"> <img src="avatars/Slack.svg" alt="Slack" width="30"> <img src="avatars/Telegram.svg" alt="Telegram" width="30"> 
 
 ## Test management
 
 Managing a large volume of tests in test management systems that support both manual and autotests, in conjunction with CI/CD tools and task trackers
 
-<img src="avatars/Allure_EE.svg" alt="Allire_EE" width="50" height="50"> <img src="avatars/Jira.svg" alt="Jira" width="50" height="50"> 
+<img src="avatars/Allure_EE.svg" alt="Allire_EE" width="30"> <img src="avatars/Jira.svg" alt="Jira" width="30"> 
