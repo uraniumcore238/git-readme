@@ -156,15 +156,51 @@
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/Maven.svg" width="48" height="48" alt="Maven" />
+        <img src="./avatars/Jmeter.svg" width="48" height="48" alt="Apache JMeter" />
       </a>
-      <br>Maven
+      <br>Apache JMeter
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/Maven.svg" width="48" height="48" alt="Maven" />
+        <img src="./avatars/Postman.svg" width="48" height="48" alt="Postman" />
       </a>
-      <br>Maven
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Android_studio.svg" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/Ranorex_Selocity.svg" width="48" height="48" alt="Ranorex Selocity" />
+      </a>
+      <br>Ranorex Selocity
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/SQL.svg" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/" width="48" height="48" alt="" />
+      </a>
+      <br>
+    </td>
+    <td align="center" width="96">
+      <a href="#uraniumcore238" >
+        <img src="./avatars/" width="48" height="48" alt="" />
+      </a>
+      <br>
     </td>
   </tr>
 </table>
