@@ -186,19 +186,19 @@
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/" width="48" height="48" alt="" />
+<!--         <img src="./avatars/" width="48" height="48" alt="" /> -->
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/" width="48" height="48" alt="" />
+<!--         <img src="./avatars/" width="48" height="48" alt="" /> -->
       </a>
       <br>
     </td>
     <td align="center" width="96">
       <a href="#uraniumcore238" >
-        <img src="./avatars/" width="48" height="48" alt="" />
+<!--         <img src="./avatars/" width="48" height="48" alt="" /> -->
       </a>
       <br>
     </td>
