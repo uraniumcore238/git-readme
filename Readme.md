@@ -1,6 +1,6 @@
 # Hi there! <img src="avatars/wave.gif" width="30px">
 
-[My LinkedIn Profile](http://linkedin.com/in/sergei-tolmachev-21732a160) <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="30"> 
+<img src="avatars/LinkedIn.svg" alt="LinkedIn" width="10">  [My LinkedIn Profile](http://linkedin.com/in/sergei-tolmachev-21732a160) 
 
 ## Autotests development
 
