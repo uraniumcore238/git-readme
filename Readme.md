@@ -1,4 +1,4 @@
-# Hi there! <img src="avatars/wave.gif" width="30px">
+# Hi there! <img src="avatars/wave.gif" width="10px">
 
 <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="13">  [My LinkedIn profile](http://linkedin.com/in/sergei-tolmachev) 
 
