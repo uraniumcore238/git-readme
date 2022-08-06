@@ -1,3 +1,10 @@
+<p align="right">
+<a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=uraniumcore.uraniumcore238&color=55acb7&style=flat&logo=Github&text=Hello_Visitors!">
+  <img title="|Customized by uraniumcore|" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=uraniumcore.uraniumcore238&color=55acb7&style=flat&logo=Github&text=Hello_Visitors!"/>
+  <img title="|Customized by uraniumcore|" alt="GitHub watchers" src="https://img.shields.io/github/watchers/uraniumcore238/uraniumcore238?color=55acb7&logo=github">
+</a>
+</p>
+
 # Hi there! <img src="avatars/wave.gif" width="30px">
 
 <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="13">  [My LinkedIn profile](http://linkedin.com/in/sergei-tolmachev) 
