@@ -10,7 +10,7 @@
 
 [comment]: <> (## Autotests development)
 <p align="left">    
-    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=14&center=false&vCenter=false&lines=Autotests+development">
+    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=20&center=false&vCenter=false&lines=Autotests+development">
 </p>
 
 > Creating scenarios that emulate human behavior to automatically test the product's performance.
