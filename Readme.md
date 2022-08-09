@@ -8,10 +8,7 @@
 # Hi there! <img src="avatars/wave.gif" width="30px">
 <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="13">  [LinkedIn](http://linkedin.com/in/sergei-tolmachev) 
 
-[comment]: <> (## Autotests development)
-<p align="left">    
-    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=20&center=false&vCenter=false&lines=Autotests+development">
-</p>
+## Autotests development
 
 > Creating scenarios that emulate human behavior to automatically test the product's performance.
 
