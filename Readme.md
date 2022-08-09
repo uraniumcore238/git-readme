@@ -10,8 +10,9 @@
 
 [comment]: <> (## Autotests development)
 <p align="left">    
-    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=35&center=false&vCenter=false&lines=Autotests+development">
+    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=14&center=false&vCenter=false&lines=Autotests+development">
 </p>
+
 > Creating scenarios that emulate human behavior to automatically test the product's performance.
 
 <img src="avatars/Python.svg" alt="Python" width="30">  <img src="avatars/Pycharm.svg" alt="Pycharm" width="30">  <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="30">  <img src="avatars/Java.svg" alt="Java" width="30">  <img src="avatars/Selenium.svg" alt="Selenium" width="30">  <img src="avatars/Selenide.svg" alt="Selenide" width="30">  <img src="avatars/Gradle.svg" alt="Gradle" width="30">  <img src="avatars/JUnit5.svg" alt="JUnit5" width="30">  <img src="avatars/Rest-Assured.svg" alt="Rest-Assured" width="30">  <img src="avatars/Appium.svg" alt="Appium" width="30"> 
