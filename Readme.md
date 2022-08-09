@@ -4,16 +4,14 @@
   <img title="|Customized by uraniumcore|" alt="GitHub watchers" src="https://img.shields.io/github/watchers/uraniumcore238/uraniumcore238?color=55acb7&logo=github">
 </a>
 </p>
-<p align="left">
-    <img src="avatars/wave.gif" width="30px">
-    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=35&center=false&vCenter=false&lines=Hi+there!;Welcome+to+my+github">
-</p>
 
-[comment]: <> (# Hi there! <img src="avatars/wave.gif" width="30px">)
+# Hi there! <img src="avatars/wave.gif" width="30px">
 <img src="avatars/LinkedIn.svg" alt="LinkedIn" width="13">  [LinkedIn](http://linkedin.com/in/sergei-tolmachev) 
 
-## Autotests development
-
+[comment]: <> (## Autotests development)
+<p align="left">    
+    <img title="|Customized by uraniumcore|" src="https://readme-typing-svg.herokuapp.com?color=000000&font=Arial&size=35&center=false&vCenter=false&lines=Autotests+development">
+</p>
 > Creating scenarios that emulate human behavior to automatically test the product's performance.
 
 <img src="avatars/Python.svg" alt="Python" width="30">  <img src="avatars/Pycharm.svg" alt="Pycharm" width="30">  <img src="avatars/Intelij_IDEA.svg" alt="IntelliJ IDEA" width="30">  <img src="avatars/Java.svg" alt="Java" width="30">  <img src="avatars/Selenium.svg" alt="Selenium" width="30">  <img src="avatars/Selenide.svg" alt="Selenide" width="30">  <img src="avatars/Gradle.svg" alt="Gradle" width="30">  <img src="avatars/JUnit5.svg" alt="JUnit5" width="30">  <img src="avatars/Rest-Assured.svg" alt="Rest-Assured" width="30">  <img src="avatars/Appium.svg" alt="Appium" width="30"> 
